@@ -12,7 +12,7 @@ permalink: /
 ---
 ### 夜明けと蛍
 
-![image](/GHPages_WebSite/assets/images/hotaru.jpeg)
+![image](/GHPages_WebSite/assets/images/hotaru.jpeg)  
 [【初音ミク】 夜明けと蛍 【オリジナル】](https://www.nicovideo.jp/watch/sm24892241)
 
 **太字**
