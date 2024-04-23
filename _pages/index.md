@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "おすすめのボカロ３選"
+author: 名無しのボカロマニア
 permalink: /
 ---
 
@@ -23,7 +23,7 @@ permalink: /
 改行は、行末に半角スペースを2個いれる
 次の行
 
-[リンク](https://www.nicovideo.jp/watch/sm24892241)
+[【初音ミク】 夜明けと蛍 【オリジナル】](https://www.nicovideo.jp/watch/sm24892241)
 
 **太字**
 
