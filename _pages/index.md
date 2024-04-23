@@ -1,5 +1,5 @@
 ---
-title: "おすすめのボカロ３選"
+title: "おすすめのボカロ曲"
 author: 名無しのボカロマニア
 permalink: /
 ---
@@ -10,15 +10,9 @@ permalink: /
 
 
 ---
-
-以下テンプレート
-
 ### 夜明けと蛍
 
-
-改行は、行末に半角スペースを2個いれる　　
-次の行
-
+![image](/GHPages_WebSite/assets/images/hotaru.jpeg)
 [【初音ミク】 夜明けと蛍 【オリジナル】](https://www.nicovideo.jp/watch/sm24892241)
 
 **太字**
@@ -42,4 +36,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/hotaru.jpeg)
+
