@@ -23,7 +23,7 @@ permalink: /
 改行は、行末に半角スペースを2個いれる
 次の行
 
-[リンク](https://www.google.co.jp/)
+[リンク](https://www.nicovideo.jp/watch/sm24892241)
 
 **太字**
 
